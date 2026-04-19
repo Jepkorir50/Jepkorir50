@@ -1,7 +1,7 @@
 <!-- PROFILE README FOR Jepkorir50 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Tracy Jepkorir banner" width="100%" />
+  <img src="./banner1.png" alt="Tracy Jepkorir banner" width="100%" />
 </p>
 
 <h2 align="center">Tracy Jepkorir</h2>
