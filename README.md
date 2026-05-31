@@ -117,5 +117,5 @@
   <a href="mailto:jepkorirtracy45@gmail.com">Email</a> •
   <a href="https://github.com/Jepkorir50">GitHub</a> •
   <a href="www.linkedin.com/in/tracy-jepkorir/">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <!-- <a href="YOUR_PORTFOLIO_URL">Portfolio</a> -->
 </p>
