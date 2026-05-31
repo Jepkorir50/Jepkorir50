@@ -101,7 +101,6 @@
 ##  Featured Repositories
 
 <p align="center">
-  Pin your best repositories here from your GitHub profile:
 </p>
 
 - Tanda Portal / invoice automation
