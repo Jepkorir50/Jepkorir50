@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Tracy Jepkorir</h2>
-<h4 align="center">Software Engineer | Frontend Developer | Backend Developer | Data & Dashboard Enthusiast</h4>
+<h4 align="center">Software Engineer | Full stack Developer | Data & Dashboard Enthusiast</h4>
 
 <p align="center">
   <a href="mailto:jepkorirtracy45@gmail.com">
