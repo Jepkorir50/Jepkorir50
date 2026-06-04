@@ -67,16 +67,7 @@ I enjoy working where **technology meets real-world impact**, and I'm always loo
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| **Ezafar** | Full-stack web platform | Flask · Python · PostgreSQL | [Visit →](https://ezafar.com/) |
-| **Createx Boutique Shop** | E-commerce UI/UX design | Figma · Prototyping | [View →](https://www.figma.com/design/iJJKtpllEmmkuiKnuM2WaZ/createx-boutique-Shop?node-id=0-1&p=f) |
-| **Nexus Commerce** | Typed e-commerce frontend | TypeScript · React · Tailwind | [Visit →](https://nexuscommerce.netlify.app/) |
-| **Mdabu Jobs** | Job listing platform | React · Tailwind · Express · Node.js | [Visit →](https://mdabujobs.com/) |
-
----
 
 ## 📊 GitHub Statistics
 
